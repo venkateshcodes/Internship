@@ -44,6 +44,22 @@ The performance of Generation Z (born between 1997 and 2012) in the workforce ha
    ```
 3. 🔎 Explore the files and projects.
 
-## 🤝 Connect with Me
-- **🔗 LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347)
-- **📧 Email:** [srivenkatesh6.k@gmmail.com]
+## 🤝 Contributing  
+Contributions are welcome! Feel free to fork the repo, submit PRs, or open issues.
+
+---
+
+## 🔗 Connect  
+📧 **Email:** srivenkatesh6.k@gmail.com
+🌐 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347)  
+
+---
+
+## ⭐ Support  
+If you find this project useful, don't forget to **⭐ star the repository!**  
+
+### 📌 **Project Done by:** **KEDARI SRI VENKATESH**  
+📢 Published on **VenkateshCodes**  
+```
+
+## ⭐ If you find this project useful, don't forget to give it a star! ⭐
