@@ -45,5 +45,5 @@ The performance of Generation Z (born between 1997 and 2012) in the workforce ha
 3. 🔎 Explore the files and projects.
 
 ## 🤝 Connect with Me
-- **🔗 LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347)
+- **🔗 LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347)
 - **📧 Email:** [srivenkatesh6.k@gmmail.com]
