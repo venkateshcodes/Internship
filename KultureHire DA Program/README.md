@@ -1,4 +1,4 @@
-# 📂 Internship Repository
+# 📂 KultureHire Internship Repository
 
 Welcome to my Internship Repository! This repository contains all the work, projects, and learning materials from my Data Analytics internship experience.
 
