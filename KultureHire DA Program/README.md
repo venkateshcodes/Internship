@@ -1,4 +1,4 @@
-# Internship Repository
+# 📂 Internship Repository
 
 Welcome to my Internship Repository! This repository contains all the work, projects, and learning materials from my Data Analytics internship experience.
 
@@ -14,39 +14,36 @@ Welcome to my Internship Repository! This repository contains all the work, proj
 ```
 
 ## 🚀 About My Internship
-- **Company Name:** [KultureHire]
-- **Internship Duration:** [06/03/2025] - [Present]
-- **Role:** Data Analytics Intern
-- **Mentor/Supervisor:** [Gowtham Kumar]
+- **🏢 Company Name:** KultureHire
+- **📅 Internship Duration:** 06/03/2025 - Present
+- **🎯 Role:** Data Analytics Intern
+- **👨‍🏫 Mentor/Supervisor:** Gowtham Kumar
 
 ## 🔥 Projects & Contributions
-- **Under Standing the Career Aspirations of Generation Z**  
-  Analyzed data on career preferences, job expectations, and work culture priorities of Generation Z.  
-  Used Python (Pandas, NumPy), SQL, and data visualization tools to derive insights.
+- **📊 Understanding the Career Aspirations of Generation Z** (Ongoing) - Analyzing the career preferences, motivations, and trends among Gen Z using data analytics.
 
-- **[Project 2 Name]** - Brief description of the project and your role in it.
-- **[Any Other Contributions]** - Additional work you did during the internship.
+## 📌 Overview
+The performance of Generation Z (born between 1997 and 2012) in the workforce has been influenced by various factors, including mental health challenges, workplace expectations, and employment trends. Utilizing the **5W1H framework— Who?, What?, When?, Where?, Why?, and How?** —provides a comprehensive analysis of their current performance.
 
 ## 📚 Learning & Takeaways
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Data Visualization & Dashboarding
-- SQL & Database Management
-- Python for Data Analysis (Pandas, NumPy, etc.)
-- Machine Learning Basics
+- 🧹 Data Cleaning & Preprocessing
+- 🔍 Exploratory Data Analysis (EDA)
+- 📊 Data Visualization & Dashboarding
+- 🗄️ SQL & Database Management
+- 🐍 Python for Data Analysis (Pandas, NumPy, etc.)
+- 🤖 Machine Learning Basics
 
 ## 💡 How to Use This Repository
-1. Clone the repository:
+1. 🚀 Clone the repository:
    ```sh
    git clone https://github.com/your-username/internship-repository.git
    ```
-2. Navigate into the directory:
+2. 📂 Navigate into the directory:
    ```sh
    cd internship-repository
    ```
-3. Explore the files and projects.
+3. 🔎 Explore the files and projects.
 
 ## 🤝 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Email:** [your-email@example.com]
-
+- **🔗 LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347)
+- **📧 Email:** [srivenkatesh6.k@gmmail.com]
