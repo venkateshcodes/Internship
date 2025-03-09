@@ -45,9 +45,17 @@ We welcome contributions! Feel free to submit issues, feature requests, or pull 
 ### 📜 License  
 This project is licensed under the [MIT License](LICENSE).  
 
-### 📧 Contact  
-For inquiries, reach out via email at `srivenkatesh6.k@gmail.com` or open an issue in the repository.  
+## 📬 Contact
+Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347)** or reach out via **[Email](srivenkatesh6.k@gmail.com)**.
 
 ---
 
-Would you like any modifications or additional sections? 😊
+## ⭐ Support  
+If you find this project useful, don't forget to **⭐ star the repository!**  
+
+### 📌 **Project Done by:** **KEDARI SRI VENKATESH**  
+📢 Published on **VenkateshCodes**  
+```
+
+## ⭐ If you find this project useful, don't forget to give it a star! ⭐
+
