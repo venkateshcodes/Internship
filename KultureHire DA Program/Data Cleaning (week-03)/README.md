@@ -55,11 +55,19 @@ Want to enhance this process? Feel free to contribute! 🛠
 - Improve the cleaning scripts 🏗
 - Submit a Pull Request 📥
 
----
+### 📜 License  
+This project is licensed under the [MIT License](LICENSE).  
 
 ## 📬 Contact
-For any queries, reach out at: [your-email@example.com](mailto:your-email@example.com) 📩
+Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347)** or reach out via **[Email](srivenkatesh6.k@gmail.com)**.
 
-📌 **Stay updated for more data projects!** 🔥
+---
 
+## ⭐ Support  
+If you find this project useful, don't forget to **⭐ star the repository!**  
 
+### 📌 **Project Done by:** **KEDARI SRI VENKATESH**  
+📢 Published on **VenkateshCodes**  
+```
+
+## ⭐ If you find this project useful, don't forget to give it a star! ⭐
