@@ -1,7 +1,7 @@
 # 🌟 Understanding the Career Aspirations of Generation Z 🎯  
 
 🚀 **Internship:** KultureHire DA Intern  
-👨‍🏫 **Mentor:** Gouthom Kumar  
+👨‍🏫 **Mentor:** Gowtham Kumar  
 📅 **Internship Start Date:** March 6, 2024  
 📍 **Current Status:** Ongoing ⏳  
 
