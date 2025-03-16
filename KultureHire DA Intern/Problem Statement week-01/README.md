@@ -57,6 +57,10 @@ By leveraging **data-driven insights**, this study will help organizations bette
 
 ---
 
+📥 **[Problem Statement](https://github.com/venkateshcodes/Internship/blob/aa2a2cf6a216ed0c61320d00d08ad75c9fdc1aa9/KultureHire%20DA%20Intern/Problem%20Statement%20week-01/Problem%20Statement.docx)**
+
+---
+
 ## ⏭️ Next Steps for Week 2  
 
 🚀 Begin **data collection** through surveys 📋  
