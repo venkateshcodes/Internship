@@ -42,7 +42,7 @@ By structuring the survey with **well-defined, unbiased questions**, we ensure a
 🔸 Exported as **PDF Report** for reference 📂  
 🔸 Uploaded for mentor review ✅  
 
-📥 **[Download the PDF Report](#)** (Replace `#` with the actual link)  
+📥 **[Download the PDF Report](https://forms.gle/qs8yKFVonU2otMr18)**
 
 ---
 
@@ -83,12 +83,23 @@ This structured survey helps us **extract meaningful insights** from Gen Z profe
 ## 🔗 Resources & Links  
 
 📥 **[Google Form Survey Link](https://docs.google.com/forms/d/e/1FAIpQLSeBHP9rFtLpowDGvKeHa7AQCRePpdQAe1B-kUkFH9wJaAPKHA/viewform?usp=header)** 
-📑 **[Survey PDF Report](#)** (Replace `#` with the actual link)  
+📑 **[Survey PDF Report](https://forms.gle/qs8yKFVonU2otMr18)**
 
 ---
 
-## 📬 Let's Connect!  
+### 📬 Let's Connect  
 
-💼 [LinkedIn](#) | 💻 [GitHub](#) | ✉️ [Email](#)  
+💼 [LinkedIn](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347) | 💻 [GitHub](https://github.com/venkateshcodes) | ✉️ [Email](srivenkatesh6.k@gmail.com)  
 
-🔔 Stay tuned for more updates! 🚀✨  
+🔔 Stay tuned for updates! 🌟  
+
+---
+
+## ⭐ Support  
+If you find this project useful, don't forget to **⭐ star the repository!**  
+
+### 📌 **Project Done by:** **KEDARI SRI VENKATESH**  
+📢 Published on **VenkateshCodes**  
+```
+
+## ⭐ If you find this project useful, don't forget to give it a star! ⭐
