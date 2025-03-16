@@ -73,11 +73,22 @@ By leveraging **data-driven insights**, this study will help organizations bette
 📈 Enhances **employee engagement & productivity**  
 📊 Supports **data-driven decision-making** in HR  
 
+
+--- 
+
+### 📬 Let's Connect  
+
+💼 [LinkedIn](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347) | 💻 [GitHub](https://github.com/venkateshcodes) | ✉️ [Email](srivenkatesh6.k@gmail.com)  
+
+🔔 Stay tuned for updates! 🌟  
+
 ---
 
-## 📬 Let's Connect!  
+## ⭐ Support  
+If you find this project useful, don't forget to **⭐ star the repository!**  
 
-💼 [LinkedIn](#) | 💻 [GitHub](#) | ✉️ [Email](#)  
+### 📌 **Project Done by:** **KEDARI SRI VENKATESH**  
+📢 Published on **VenkateshCodes**  
+```
 
-🔔 Stay tuned for more updates! 🚀✨  
-
+## ⭐ If you find this project useful, don't forget to give it a star! ⭐
