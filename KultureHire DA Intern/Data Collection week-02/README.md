@@ -82,8 +82,8 @@ This structured survey helps us **extract meaningful insights** from Gen Z profe
 
 ## 🔗 Resources & Links  
 
-📥 **[Google Form Survey Link](#)**
-📑 **[Survey PDF Report](#)**
+📥 **[Google Form Survey Link](https://docs.google.com/forms/d/e/1FAIpQLSeBHP9rFtLpowDGvKeHa7AQCRePpdQAe1B-kUkFH9wJaAPKHA/viewform?usp=header)** 
+📑 **[Survey PDF Report](#)** (Replace `#` with the actual link)  
 
 ---
 
@@ -92,4 +92,3 @@ This structured survey helps us **extract meaningful insights** from Gen Z profe
 💼 [LinkedIn](#) | 💻 [GitHub](#) | ✉️ [Email](#)  
 
 🔔 Stay tuned for more updates! 🚀✨  
-
