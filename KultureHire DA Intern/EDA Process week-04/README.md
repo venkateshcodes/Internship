@@ -42,8 +42,8 @@ EDA helps us **understand patterns, trends, and relationships** within the datas
 🔸 Exported Pivot Tables & Charts as an **Excel file (.xlsx)** 📂  
 🔸 Shared findings with my mentor for review ✅  
 
-📥 **[Download the EDA Report PDF](#)** (Replace `#` with actual file link)  
-📑 **[Excel File with Pivot Tables](#)** (Replace `#` with actual file link)  
+📥 **[Cleaned dataset](https://github.com/venkateshcodes/Internship/blob/bec9e50ae97f81c188eec6c0698d20f604a05c6e/KultureHire%20DA%20Intern/EDA%20Process%20week-04/Cleaned%20dataset.xlsx)**
+📑 **[After using Pivottables](#)** (Replace `#` with actual file link)  
 
 ---
 
