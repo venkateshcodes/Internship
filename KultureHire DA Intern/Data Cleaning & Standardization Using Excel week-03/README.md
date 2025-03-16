@@ -76,9 +76,19 @@ Unstructured or messy data can lead to incorrect analysis and insights. Through 
 
 ---
 
-## 📬 Let's Connect!  
+### 📬 Let's Connect  
 
-💼 [LinkedIn](#) | 💻 [GitHub](#) | ✉️ [Email](#)  
+💼 [LinkedIn](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347) | 💻 [GitHub](https://github.com/venkateshcodes) | ✉️ [Email](srivenkatesh6.k@gmail.com)  
 
-🔔 Stay tuned for more updates! 🚀✨  
+🔔 Stay tuned for updates! 🌟  
 
+---
+
+## ⭐ Support  
+If you find this project useful, don't forget to **⭐ star the repository!**  
+
+### 📌 **Project Done by:** **KEDARI SRI VENKATESH**  
+📢 Published on **VenkateshCodes**  
+```
+
+## ⭐ If you find this project useful, don't forget to give it a star! ⭐
