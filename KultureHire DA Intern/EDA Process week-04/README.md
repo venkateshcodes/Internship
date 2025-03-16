@@ -43,8 +43,7 @@ EDA helps us **understand patterns, trends, and relationships** within the datas
 🔸 Shared findings with my mentor for review ✅  
 
 📥 **[Cleaned dataset](https://github.com/venkateshcodes/Internship/blob/bec9e50ae97f81c188eec6c0698d20f604a05c6e/KultureHire%20DA%20Intern/EDA%20Process%20week-04/Cleaned%20dataset.xlsx)**
-📑 **[After using Pivottables](#)** (Replace `#` with actual file link)  
-
+📑 **[After using Pivottables](https://github.com/venkateshcodes/Internship/blob/bd9ab66d423b123d95bc1be5ea7ebd8b533ae17e/KultureHire%20DA%20Intern/EDA%20Process%20week-04/New%20Responses.xlsx)**
 ---
 
 ## 📊 Key Insights from EDA  
