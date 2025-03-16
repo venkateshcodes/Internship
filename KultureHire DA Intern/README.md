@@ -44,10 +44,17 @@ Welcome to my **KultureHire DA Intern** repository! 🚀 This repo showcases my 
 
 ### 📬 Let's Connect  
 
-💼 [LinkedIn](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347) | 💻 [GitHub](#) | ✉️ [Email](srivenkatesh6.k@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347) | 💻 [GitHub](https://github.com/venkateshcodes) | ✉️ [Email](srivenkatesh6.k@gmail.com)  
 
 🔔 Stay tuned for updates! 🌟  
 
 ---
 
-This README is engaging, professional, and well-structured. Let me know if you want any changes! 😊
+## ⭐ Support  
+If you find this project useful, don't forget to **⭐ star the repository!**  
+
+### 📌 **Project Done by:** **KEDARI SRI VENKATESH**  
+📢 Published on **VenkateshCodes**  
+```
+
+## ⭐ If you find this project useful, don't forget to give it a star! ⭐
