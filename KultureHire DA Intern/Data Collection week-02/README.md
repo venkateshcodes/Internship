@@ -83,7 +83,7 @@ This structured survey helps us **extract meaningful insights** from Gen Z profe
 ## 🔗 Resources & Links  
 
 📥 **[Google Form Survey Link](https://docs.google.com/forms/d/e/1FAIpQLSeBHP9rFtLpowDGvKeHa7AQCRePpdQAe1B-kUkFH9wJaAPKHA/viewform?usp=header)** 
-📑 **[Survey PDF Report](https://forms.gle/qs8yKFVonU2otMr18)**
+📑 **[Survey PDF Report](https://github.com/venkateshcodes/Internship/blob/fcffa9c991d1c6c62c9262b4869aba808d3fa3d9/KultureHire%20DA%20Intern/Data%20Collection%20week-02/Under%20Standing%20the%20Career%20Aspirations%20of%20Generation%20Z.pdf)**
 
 ---
 
