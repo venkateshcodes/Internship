@@ -1,8 +1,3 @@
-Here’s your **GitHub README** for **Week 5 Progress: Data Analysis in SQL** with a structured format and engaging emojis! 🚀  
-
----
-
-```md
 # 🛢️ Week 5: Data Analysis in SQL 🏆  
 
 🚀 **Internship:** KultureHire DA Intern  
