@@ -21,13 +21,15 @@ SQL is an essential tool for querying, filtering, and analyzing large datasets e
 ### ✅ **1. Setting Up the SQL Environment** 🛠️  
 🔹 **Loaded the cleaned dataset into SQL Database** (MySQL/PostgreSQL) 🗄️  
 🔹 **Created tables & defined schema** (data types, constraints) 📋  
-🔹 **Checked for data integrity and consistency** 🔎  
+🔹 **Checked for data integrity and consistency** 🔎   
+
 
 ### ✅ **2. Writing SQL Queries for Analysis** 🏗️  
 🔸 Performed **data filtering & selection** using `SELECT`, `WHERE`, and `ORDER BY` 📊  
 🔸 Used **aggregations (`COUNT()`, `AVG()`, `SUM()`, `GROUP BY`)** to analyze trends 📈  
 🔸 Applied **joins (`INNER JOIN`, `LEFT JOIN`)** to combine multiple tables 🔗  
 🔸 Used **window functions (`RANK()`, `DENSE_RANK()`)** for advanced analytics 🏆  
+
 
 ### ✅ **3. Key SQL Queries & Findings** 🔍  
 #### 🔹 **1️⃣ Most Preferred Career Paths Among Gen Z:**  
@@ -40,6 +42,7 @@ LIMIT 5;
 ```
 🔹 **Insight:** The top 3 career paths chosen by Gen Z are **[Career 1], [Career 2], [Career 3]** 🚀  
 
+
 #### 🔹 **2️⃣ Salary Expectations by Industry:**  
 ```sql
 SELECT industry, AVG(expected_salary) AS avg_salary
@@ -49,6 +52,7 @@ ORDER BY avg_salary DESC;
 ```
 🔹 **Insight:** **[Industry X]** offers the highest expected salaries 💰  
 
+
 #### 🔹 **3️⃣ Work-Life Balance Preferences:**  
 ```sql
 SELECT work_life_balance, COUNT(*) AS count
@@ -57,6 +61,7 @@ GROUP BY work_life_balance
 ORDER BY count DESC;
 ```
 🔹 **Insight:** **X%** of respondents prefer jobs with strong work-life balance ⚖️  
+
 
 ### ✅ **4. Documentation & Submission** 📑  
 🔸 Compiled **SQL query outputs & insights** into a summary report 📝  
@@ -98,20 +103,19 @@ ORDER BY count DESC;
 
 ---
 
-## 📬 Let's Connect!  
+### 📬 Let's Connect  
 
-💼 [LinkedIn](#) | 💻 [GitHub](#) | ✉️ [Email](#)  
+💼 [LinkedIn](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347) | 💻 [GitHub](https://github.com/venkateshcodes) | ✉️ [Email](srivenkatesh6.k@gmail.com)  
 
-🔔 Stay tuned for more updates! 🚀✨  
-```
+🔔 Stay tuned for updates! 🌟  
 
 ---
 
-### 🔥 **What’s New in This Version?**  
+## ⭐ Support  
+If you find this project useful, don't forget to **⭐ star the repository!**  
 
-✅ **Detailed SQL query examples with explanations** 🏗️  
-✅ **Formatted insights based on SQL results** 📊  
-✅ **Challenges faced & solutions applied** 💡  
-✅ **Direct download links for SQL scripts & reports** 📂  
+### 📌 **Project Done by:** **KEDARI SRI VENKATESH**  
+📢 Published on **VenkateshCodes**  
+```
 
-This README is **clear, engaging, and structured for readability**! Let me know if you’d like any refinements. 😊🔥
+## ⭐ If you find this project useful, don't forget to give it a star! ⭐
