@@ -68,7 +68,7 @@ ORDER BY count DESC;
 🔸 Exported the final results as a **CSV file** 📂  
 🔸 Shared findings with my mentor for feedback ✅  
 
-📥 **[Download the SQL Analysis Report PDF](#)** (Replace `#` with actual link)  
+📥 **[Download the SQL Analysis Report PDF](https://github.com/venkateshcodes/Internship/blob/804b468a590b3ccdc60046652dafae3d05e5da76/KultureHire%20DA%20Intern/Data%20Analysis%20in%20SQL%20week-05/Sql%20Questions%20%20in%20my%20Journey.pdf)**
 📑 **[SQL Query Scripts](https://github.com/venkateshcodes/Internship/blob/f68880ed4e409348901eab3bd107fefa39fdb7dc/KultureHire%20DA%20Intern/Data%20Analysis%20in%20SQL%20week-05/Data%20Analysis%20with%20SQL.docx)** 
 
 ---
