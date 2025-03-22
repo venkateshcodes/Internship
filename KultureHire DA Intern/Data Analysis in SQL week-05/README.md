@@ -69,7 +69,7 @@ ORDER BY count DESC;
 🔸 Shared findings with my mentor for feedback ✅  
 
 📥 **[Download the SQL Analysis Report PDF](#)** (Replace `#` with actual link)  
-📑 **[SQL Query Scripts](#)** (Replace `#` with actual file link)  
+📑 **[SQL Query Scripts](https://github.com/venkateshcodes/Internship/blob/f68880ed4e409348901eab3bd107fefa39fdb7dc/KultureHire%20DA%20Intern/Data%20Analysis%20in%20SQL%20week-05/Data%20Analysis%20with%20SQL.docx)** 
 
 ---
 
