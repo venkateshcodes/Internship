@@ -3,6 +3,13 @@
 ## 📌 Overview
 This repository contains my submission for **Week 06** of the **Kulture Hire Data Analytics Internship Program**. The task involves analyzing datasets, deriving insights, and applying data visualization techniques to present findings effectively.
 
+### 📌 Internship Details  
+
+- **🏢 Organization:** KultureHire  
+- **👨‍🏫 Mentor:** Gowtham Kumar  
+- **📅 Start Date:** March 6, 2025
+- **📍 Status:** Ongoing ⏳  
+
 ## 📊 Task Details
 - **📅 Internship Program:** Kulture Hire Data Analytics
 - **📆 Week:** 06
