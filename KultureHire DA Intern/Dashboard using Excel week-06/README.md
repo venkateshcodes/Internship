@@ -35,7 +35,7 @@ This repository contains my submission for **Week 06** of the **Kulture Hire Dat
 
 ## 📊 Excel Dashboard
 You can access the interactive Excel dashboard here:
-🔗 [Excel Dashboard](YOUR_EXCEL_DASHBOARD_LINK)
+🔗 [Excel Dashboard](https://github.com/venkateshcodes/Internship/blob/7e7a47f7ed72371147c944c036f3fe73300010b3/KultureHire%20DA%20Intern/Dashboard%20using%20Excel%20week-06/Excel%20Dashboard.xlsx)
 
 ---
 
