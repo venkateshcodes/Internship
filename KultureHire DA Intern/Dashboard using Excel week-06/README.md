@@ -32,6 +32,13 @@ This repository contains my submission for **Week 06** of the **Kulture Hire Dat
 3. 📊 **Data Visualization:** Creating meaningful graphs and charts.
 4. 💡 **Insights & Conclusion:** Summarizing key takeaways from the analysis.
 
+
+## 📊 Excel Dashboard
+You can access the interactive Excel dashboard here:
+🔗 [Excel Dashboard](YOUR_EXCEL_DASHBOARD_LINK)
+
+---
+
 ## 🏃‍♂️ How to Run the Notebook
 1. Clone the repository:
    ```bash
