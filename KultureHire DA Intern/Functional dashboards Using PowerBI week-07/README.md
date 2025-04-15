@@ -106,7 +106,7 @@ kulturehire-intern-week07-powerbi-dashboard/
 
 You can open the full interactive dashboard by downloading the `.pbix` file below:
 
-🔗 [Download GenZ_Dashboard.pbix](./reports/GenZ_Dashboard.pbix)
+🔗 [Download GenZ_Dashboard.pbix](https://github.com/venkateshcodes/Internship/blob/6cf251082f4812f04840625daa7d75784c6d5fa2/KultureHire%20DA%20Intern/Functional%20dashboards%20Using%20PowerBI%20week-07/Gen%20Z%20Dashboard.pbix)
 
 > 📝 Requires [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop) to view.
 ---
