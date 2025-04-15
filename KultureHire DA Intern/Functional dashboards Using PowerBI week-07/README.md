@@ -67,13 +67,13 @@ The goal of this week’s task was to build a **functional and interactive dashb
 Explore some of the key visuals from the Power BI dashboard:
 
 ### 🧭 Mission Aspirations
-![Mission Aspirations](./screenshots/mission_insights.png)
+![Mission Aspirations](https://github.com/venkateshcodes/Internship/blob/d4d87861b7b41160148533f12101001974002853/KultureHire%20DA%20Intern/Functional%20dashboards%20Using%20PowerBI%20week-07/Mission%20Aspirations%20of%20Gen%20z.jpg)
 
 ### 👔 Managerial Preferences
-![Manager Preferences](./screenshots/manager_preferences.png)
+![Manager Preferences](https://github.com/venkateshcodes/Internship/blob/d4d87861b7b41160148533f12101001974002853/KultureHire%20DA%20Intern/Functional%20dashboards%20Using%20PowerBI%20week-07/Manager%20Aspirations%20of%20Gen%20z.jpg)
 
 ### 🎓 Learning & Work Style Trends
-![Learning Trends](./screenshots/learning_trends.png)
+![Learning Trends](https://github.com/venkateshcodes/Internship/blob/d4d87861b7b41160148533f12101001974002853/KultureHire%20DA%20Intern/Functional%20dashboards%20Using%20PowerBI%20week-07/Learning%20Aspirations%20of%20Gen%20z.jpg)
 
 
 ---
