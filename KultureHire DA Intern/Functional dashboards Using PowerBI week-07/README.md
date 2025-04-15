@@ -108,7 +108,7 @@ You can open the full interactive dashboard by downloading the `.pbix` file belo
 
 🔗 [Download GenZ_Dashboard.pbix](./reports/GenZ_Dashboard.pbix)
 
-> 📝 Requires [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/) to view.
+> 📝 Requires [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop) to view.
 ---
 
 ## 🏁 11. How to Run  
