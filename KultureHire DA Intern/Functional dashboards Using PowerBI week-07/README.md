@@ -79,6 +79,56 @@ The goal of this week’s task was to build a **functional and interactive dashb
 
 
 ```
-kulturehire-intern-week07-powerbi-dashboard/ ├── datasets/ │ ├── genz_raw_data.xlsx │ └── genz_cleaned_data.csv ├── reports/ │ └── GenZ_Dashboard.pbix ├── screenshots/ │ ├── mission_insights.png │ ├── manager_preferences.png │ └── learning_trends.png └── README.md
+kulturehire-intern-week07-powerbi-dashboard/
+│
+├── 📁 datasets/
+│   ├── 📄 genz_raw_data.xlsx           # Original raw dataset extracted from survey/PDF
+│   └── 📄 genz_cleaned_data.csv        # Cleaned and transformed version for Power BI
+│
+├── 📁 reports/
+│   └── 📄 GenZ_Dashboard.pbix          # Final Power BI dashboard file
+│
+├── 📁 screenshots/
+│   ├── 🖼️ mission_insights.png         # Visual showing mission clarity and salary trends
+│   ├── 🖼️ manager_preferences.png      # Visual of Gen Z's expectations from managers
+│   └── 🖼️ learning_trends.png          # Visual of hybrid/remote/on-site learning trends
+│
+└── 📄 README.md                        # Full documentation of the Week 07 project
+
 ```
+
+---
+
+## 🏁 10. How to Run  
+
+1. 🔽 Download the `.pbix` file from `/reports`  
+2. 🖥️ Open with **Power BI Desktop**  
+3. 🎛️ Explore visual filters and slicers for interactive insights  
+
+---
+
+## 🧠 11. Takeaways  
+
+- Learned how to create **insightful storytelling dashboards**  
+- Practiced **data cleaning, transformation, and visual layout planning**  
+- Understood the **behavioral patterns of Gen Z in workplace dynamics**  
+
+---
+
+## 📬 12. Let's Connect  
+
+💼 [LinkedIn](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347)  
+💻 [GitHub](https://github.com/venkateshcodes)  
+✉️ [Email](mailto:srivenkatesh6.k@gmail.com)
+
+---
+
+## ⭐ 13. Support  
+
+If you found this project useful or inspiring, please consider giving it a **⭐ star** on GitHub and sharing it with your peers!  
+
+---
+
+### 🙌 **Project By:** **KEDARI SRI VENKATESH**  
+📢 Published on **VenkateshCodes**
 
