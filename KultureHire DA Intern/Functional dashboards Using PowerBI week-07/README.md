@@ -78,7 +78,7 @@ The goal of this week’s task was to build a **functional and interactive dashb
 ## 📁 9. Repository Structure
 
 
----
+```
 kulturehire-intern-week07-powerbi-dashboard/ ├── datasets/ │ ├── genz_raw_data.xlsx │ └── genz_cleaned_data.csv ├── reports/ │ └── GenZ_Dashboard.pbix ├── screenshots/ │ ├── mission_insights.png │ ├── manager_preferences.png │ └── learning_trends.png └── README.md
----
+```
 
