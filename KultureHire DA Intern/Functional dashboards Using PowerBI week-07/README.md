@@ -115,20 +115,16 @@ kulturehire-intern-week07-powerbi-dashboard/
 
 ---
 
-## 📬 12. Let's Connect  
+### 📬 Let's Connect  
 
-💼 [LinkedIn](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347)  
-💻 [GitHub](https://github.com/venkateshcodes)  
-✉️ [Email](mailto:srivenkatesh6.k@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347) | 💻 [GitHub](https://github.com/venkateshcodes) | ✉️ [Email](srivenkatesh6.k@gmail.com)  
 
----
-
-## ⭐ 13. Support  
-
-If you found this project useful or inspiring, please consider giving it a **⭐ star** on GitHub and sharing it with your peers!  
+🔔 Stay tuned for updates! 🌟  
 
 ---
 
-### 🙌 **Project By:** **KEDARI SRI VENKATESH**  
-📢 Published on **VenkateshCodes**
+## ⭐ Support  
+If you find this project useful, don't forget to **⭐ star the repository!**  
 
+### 📌 **Project Done by:** **KEDARI SRI VENKATESH**  
+📢 Published on **VenkateshCodes**  
