@@ -62,16 +62,19 @@ The goal of this week’s task was to build a **functional and interactive dashb
 
 ---
 
-## 🖼️ 8. Dashboard Sections  
+## 📸 8. Dashboard Gallery
 
-- 🔹 **Mission Aspirations**  
-- 🔹 **Managerial Preferences**  
-- 🔹 **Learning & Work Preferences**  
-- 🔹 **Social Impact & Frustrations**  
-- 🔹 **Motivational Triggers**
+Explore some of the key visuals from the Power BI dashboard:
 
-📸 *Visual Snapshots*: Found in `screenshots/` folder  
-📊 *Interactive File*: Located in `reports/GenZ_Dashboard.pbix`
+### 🧭 Mission Aspirations
+![Mission Aspirations](./screenshots/mission_insights.png)
+
+### 👔 Managerial Preferences
+![Manager Preferences](./screenshots/manager_preferences.png)
+
+### 🎓 Learning & Work Style Trends
+![Learning Trends](./screenshots/learning_trends.png)
+
 
 ---
 
@@ -99,7 +102,16 @@ kulturehire-intern-week07-powerbi-dashboard/
 
 ---
 
-## 🏁 10. How to Run  
+## 📥 10. Access the Power BI Dashboard
+
+You can open the full interactive dashboard by downloading the `.pbix` file below:
+
+🔗 [Download GenZ_Dashboard.pbix](./reports/GenZ_Dashboard.pbix)
+
+> 📝 Requires [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/) to view.
+---
+
+## 🏁 11. How to Run  
 
 1. 🔽 Download the `.pbix` file from `/reports`  
 2. 🖥️ Open with **Power BI Desktop**  
@@ -107,7 +119,7 @@ kulturehire-intern-week07-powerbi-dashboard/
 
 ---
 
-## 🧠 11. Takeaways  
+## 🧠 12. Takeaways  
 
 - Learned how to create **insightful storytelling dashboards**  
 - Practiced **data cleaning, transformation, and visual layout planning**  
