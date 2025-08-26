@@ -121,7 +121,7 @@ If you find this project useful, don't forget to **⭐ star the repository!**
 
 ## ⭐ If you find this project useful, don't forget to give it a star! ⭐
 
-
+```
 ---
 
 👨‍💻 **Project by:** **Kedari Sri Venkatesh (professor venky)**  
