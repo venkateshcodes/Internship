@@ -146,9 +146,7 @@ This internship gave me **end-to-end data analytics exposure**:
 
 ## 📬 Let’s Connect  
 
-💼 [LinkedIn](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347)  
-💻 [GitHub](https://github.com/venkateshcodes)  
-✉️ [Email](srivenkatesh6.k@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347)  | 💻 [GitHub](https://github.com/venkateshcodes)  | ✉️ [Email](srivenkatesh6.k@gmail.com)  
 
 ---
 
