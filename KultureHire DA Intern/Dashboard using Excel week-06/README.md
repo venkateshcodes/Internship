@@ -8,7 +8,9 @@ This repository contains my submission for **Week 06** of the **Kulture Hire Dat
 - **🏢 Organization:** KultureHire  
 - **👨‍🏫 Mentor:** Gowtham Kumar  
 - **📅 Start Date:** March 6, 2025
-- **📍 Status:** Ongoing ⏳  
+- **📅 End Date:** April 19, 2025
+- **📍 Status:** completed ✅  
+
 
 ## 📊 Task Details
 - **📅 Internship Program:** Kulture Hire Data Analytics
