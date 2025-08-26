@@ -1,9 +1,11 @@
 # 🧼 Week 3: Data Cleaning & Standardization Using Excel 📊  
 
-🚀 **Internship:** KultureHire DA Intern  
-👨‍🏫 **Mentor:** Gouthom Kumar  
-📅 **Internship Start Date:** March 6, 2024  
-📍 **Current Status:** Ongoing ⏳  
+- **🏢 Organization:** KultureHire  
+- **👨‍🏫 Mentor:** Gowtham Kumar  
+- **📅 Start Date:** March 6, 2025
+- **📅 End Date:** April 19, 2025
+- **📍 Status:** completed ✅  
+
 
 ---
 
