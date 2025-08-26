@@ -8,10 +8,12 @@ The goal of this week’s task was to build a **functional and interactive dashb
 
 ## 🏢 2. Internship Details  
 
-- **🏛️ Organization:** KultureHire  
+- **🏢 Organization:** KultureHire  
 - **👨‍🏫 Mentor:** Gowtham Kumar  
-- **📅 Start Date:** March 6, 2025  
-- **📍 Current Status:** Ongoing ⏳  
+- **📅 Start Date:** March 6, 2025
+- **📅 End Date:** April 19, 2025
+- **📍 Status:** completed ✅  
+
 
 ---
 
