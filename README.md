@@ -33,3 +33,20 @@ The internship was a **transformative milestone**, and now I’m focused on **co
 ---
 
 ⭐ If you’d like to follow my journey, stay tuned for upcoming **projects, case studies, and upskilling progress** right here!  
+
+### 📬 Let's Connect  
+
+💼 [LinkedIn](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347) | 💻 [GitHub](https://github.com/venkateshcodes) | ✉️ [Email](srivenkatesh6.k@gmail.com)  
+
+🔔 Stay tuned for updates! 🌟  
+
+---
+
+## ⭐ Support  
+If you find this project useful, don't forget to **⭐ star the repository!**  
+
+### 📌 **Project Done by:** **KEDARI SRI VENKATESH**  
+📢 Published on **VenkateshCodes**  
+```
+
+## ⭐ If you find this project useful, don't forget to give it a star! ⭐
