@@ -48,6 +48,21 @@ This week highlighted the power of **storytelling with data** 🎬
 
 ---
 
+
+### 📬 Let's Connect  
+
+💼 [LinkedIn](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347) | 💻 [GitHub](https://github.com/venkateshcodes) | ✉️ [Email](srivenkatesh6.k@gmail.com)  
+
+🔔 Stay tuned for updates! 🌟  
+
+---
+
+## ⭐ Support  
+If you find this project useful, don't forget to **⭐ star the repository!**  
+
+### 📌 **Project Done by:** **KEDARI SRI VENKATESH**  
+📢 Published on **VenkateshCodes** 
+
 👨‍💻 **Project by:** **Kedari Sri Venkatesh (professor venky)**  
 ⭐ If you liked this project, don’t forget to **star the repository** on GitHub!  
 
