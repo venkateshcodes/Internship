@@ -9,7 +9,8 @@ Welcome to my **KultureHire DA Intern** repository! 🚀 This repo showcases my 
 - **🏢 Organization:** KultureHire  
 - **👨‍🏫 Mentor:** Gowtham Kumar  
 - **📅 Start Date:** March 6, 2025
-- **📍 Status:** Ongoing ⏳  
+- **📅 End Date:** April 19, 2025
+- **📍 Status:** completed ✅  
 
 ---
 
