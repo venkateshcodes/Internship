@@ -103,6 +103,25 @@ This internship journey gave me hands-on experience in:
 
 💡 The experience strengthened my **end-to-end analytics workflow**: from raw data → insights → dashboards → executive presentation.  
 
+
+### 📬 Let's Connect  
+
+💼 [LinkedIn](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347) | 💻 [GitHub](https://github.com/venkateshcodes) | ✉️ [Email](srivenkatesh6.k@gmail.com)  
+
+🔔 Stay tuned for updates! 🌟  
+
+---
+
+## ⭐ Support  
+If you find this project useful, don't forget to **⭐ star the repository!**  
+
+### 📌 **Project Done by:** **KEDARI SRI VENKATESH**  
+📢 Published on **VenkateshCodes**  
+```
+
+## ⭐ If you find this project useful, don't forget to give it a star! ⭐
+
+
 ---
 
 👨‍💻 **Project by:** **Kedari Sri Venkatesh (professor venky)**  
